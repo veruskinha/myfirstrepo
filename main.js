@@ -9,3 +9,7 @@ function secondFunction() {
 function thirdPR() {
     console.log('thirdPR');
 }
+
+function forthOR() {
+    console.log('thiforthORrdPR');
+}
