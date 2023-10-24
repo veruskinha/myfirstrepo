@@ -5,3 +5,7 @@ function firstFunction() {
 function secondFunction() {
     console.log('secondFunction');
 }
+
+function thirdPR() {
+    console.log('thirdPR');
+}
